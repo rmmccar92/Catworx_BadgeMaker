@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Hy5ZTBjs4r0PBTiXASdqRMAz6aU8DoFEAz1z2+T8NOfn2ECxalli6S7xfPJ3sIPX8MI/mCed321Ah9hqSsOxrA==",
+  "dgSpecHash": "fiH8j+7Paby3XB22YEdJYp74qGAVszSuDRTbQFMqSW3Rg1dKnSujLXFOqNEFD77nhjBS58v/AsPpOaE+xEdZqQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ryan\\Catworx.BadgeMaker\\Catworx.BadgeMaker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ryan\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ryan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\Ryan\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
   ],
   "logs": []
