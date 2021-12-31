@@ -34,4 +34,4 @@ Answer the questions as prompted to create the badges.
 
 For any questions or comments reach out to:
 
-- [Ryan McCarthy](https://github.com/rmmccar92/) [:envelope:](mailto:rmmccar92@gmail.com subject=[Github])
+- [Ryan McCarthy](https://github.com/rmmccar92/) [:envelope:](mailto:rmmccar92@gmail.com)
